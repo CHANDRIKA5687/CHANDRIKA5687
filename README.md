@@ -16,9 +16,7 @@
      
 - 👩‍🎓 Qualification and Certifications: 
 
-     I got University Rank in First year with 92.93% and 9.91 SGPA
-     Rank Certificate :https://www.linkedin.com/posts/chandrika-dhale-63b044213_sknscoe-firstyear-activity-6860064787884249088-5uWj
-      
+     
      C++ Certification: 
      https://www.linkedin.com/posts/chandrika-dhale-63b044213_c-programming-language-activity-6859480172157050880-3qY_
      
