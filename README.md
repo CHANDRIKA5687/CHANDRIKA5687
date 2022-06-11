@@ -8,21 +8,12 @@
      LinkedIn: 
      https://www.linkedin.com/in/chandrika-dhale-63b044213
      
-     Twitter: 
-     https://twitter.com/ChandrikaDhale?t=7aBayHr7ZjzvtNtaTtYtXg&s=09
      
-     Instagram: 
-     https://instagram.com/chand.rika129?utm_medium=copy_link
      
 - 👩‍🎓 Qualification and Certifications: 
 
      
-     C++ Certification: 
-     https://www.linkedin.com/posts/chandrika-dhale-63b044213_c-programming-language-activity-6859480172157050880-3qY_
-     
-     Python: 
-     https://www.linkedin.com/posts/chandrika-dhale-63b044213_linkedin-learning-activity-6848953901035638784-c3pt
-
+    
 - 💕 Courses :
      C
      C++
