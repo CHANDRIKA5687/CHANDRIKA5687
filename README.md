@@ -1,16 +1,15 @@
 - 👋 Hi, I’m Chandrika Prakash Dhale 
 - 👀 I’m interested in web development 
-- 📚 I'm Student of CSE at SKNSCOE Korti Pandharpur 
-- 🌱 I’m currently learning Data Structure
+- 👩‍🎓 I’m currently studying in S.Y BTech in Computer Science and Engineering
+- 🌱 I’m currently learning Advanced Java and Machine Learning
+
+
 - 📫 How to reach me:
      Email:dhalechandrika@gmail.com 
     
      LinkedIn: 
      https://www.linkedin.com/in/chandrika-dhale-63b044213
-     
-     
-     
-- 👩‍🎓 Qualification and Certifications: 
+      
 
      
     
