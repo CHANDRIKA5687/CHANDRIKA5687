@@ -1,7 +1,9 @@
 ## Hello! 👋
 I'm Chandrika Dhale.
-
-- 🧭 Student at SKNSCOE Pandharpur,India .
+<h1 align="center">
+  <img src="" alt="Coder" />
+</h1>
+- Student at SKNSCOE Pandharpur,India .
 
 
 ## Skills
