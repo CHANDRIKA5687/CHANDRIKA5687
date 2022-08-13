@@ -1,13 +1,10 @@
 ## Hello! 👋
 I'm Chandrika Dhale.
-<h1 align="center">
-  <img src="" alt="Coder" />
-</h1>
 - Student at SKNSCOE Pandharpur,India .
 
 
 ## Skills
-- 👨‍💻 Java,Python,C,C++
+- 👨‍💻 Java,Python,C,Android
 - 👁️ CSS
 - 💽 SQL
 
