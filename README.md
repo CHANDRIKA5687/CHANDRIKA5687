@@ -1,6 +1,6 @@
 <img src="https://github.com/CHANDRIKA5687/CHANDRIKA5687/blob/main/cd.png" width="100%" height="300"  />
 <h1 align="center">Hi 👋, I'm Chandrika Dhale</h1>
-<h3 align="center">A passionate student from Sinhagad Institute</h3>
+<h3 align="center">A perseverant student from Sinhagad Institute</h3>
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO_DiG4xAUqU0OrwJqu1Py4Tk3n2UUCtTN9Q&usqp=CAU">
 
