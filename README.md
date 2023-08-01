@@ -1,4 +1,4 @@
-![logo]()
+<img src="https://github.com/CHANDRIKA5687/CHANDRIKA5687/blob/main/cd.png" width="100%" height="400"  />
 <h1 align="center">Hi 👋, I'm Chandrika Dhale</h1>
 <h3 align="center">A passionate student from Sinhagad Institute</h3>
 
